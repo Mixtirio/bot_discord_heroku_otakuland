@@ -1,5 +1,4 @@
 const Discord = require('discord.js')
-const token = require("./token.json")
 const bdd = require("./bdd.json");
 const fs = require("fs");
 const { stringify } = require('querystring');
